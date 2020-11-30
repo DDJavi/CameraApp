@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="cameraBtn">CAMERA</string>
+    <string name="saveBtn">SAVE</string>
+</resources>
